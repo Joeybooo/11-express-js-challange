@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Joeybooo/11-express-js-challange/issues"
   },
-  "homepage": "https://github.com/Joeybooo/11-express-js-challange#readme"
+  "homepage": "https://github.com/Joeybooo/11-express-js-challange#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
 }
